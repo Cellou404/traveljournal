@@ -9,4 +9,8 @@
 
 > npm install
 
--Then run > npm start to start the local server
+- To start the server, run npm start
+
+> npm start
+
+😌 hope you will enjoy it
